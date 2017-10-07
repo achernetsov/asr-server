@@ -1,0 +1,6 @@
+*.o
+TODO.md
+apiai.mk
+fcgi-nnet3-decoder
+*.so
+*.a
